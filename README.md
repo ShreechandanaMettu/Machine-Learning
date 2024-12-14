@@ -34,4 +34,4 @@ Contributions are welcome! If you have suggestions, create an issue or submit a 
 
 ## License
 
-This repository is under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is under the [MIT License](https://github.com/ShreechandanaMettu/Machine-Learning/blob/bb1a91d938344c413c09d4695c3b4e6836128e60/LICENSE).
