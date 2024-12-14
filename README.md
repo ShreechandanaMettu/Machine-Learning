@@ -1,3 +1,6 @@
+### Instructions
+- contains datasets and fully editable .ipynb files for your machine learning and data analysis practice
+  
 ### List of Projects:
 - Prediction of Wine Quality using Machine Learning Algorithms
 - Predidictive Analysis using a committee of deep learning models on the Fashion MNIST dataset 
