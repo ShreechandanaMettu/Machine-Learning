@@ -1,4 +1,4 @@
-### Instructions
+### About
 - contains datasets and fully editable .ipynb files for your machine learning and data analysis practice
   
 ### List of Projects:
