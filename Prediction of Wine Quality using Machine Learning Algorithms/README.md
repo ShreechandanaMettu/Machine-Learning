@@ -85,4 +85,4 @@ Contributions to this project are welcome. If you have suggestions or improvemen
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/ShreechandanaMettu/Machine-Learning/blob/38c4438d73e4f0de92fa366de5fcab5d3225aa11/LICENSE).
